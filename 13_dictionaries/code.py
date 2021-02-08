@@ -12,6 +12,9 @@ friend_ages["Bob"] = 20
 # Change a key/value
 friend_ages["Rolf"] = 21
 
+# Delete a key/value
+friend_ages.pop("Adam")
+
 # list with of dictionaries
 friends = [
     {"name": "Rolf", "age": 24},
