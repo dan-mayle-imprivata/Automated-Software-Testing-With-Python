@@ -16,4 +16,4 @@ print(bob)
 # Person Bob, 35 years old
 
 # if using __repr__
-# <Person Bob, 35>
+# <Person (Bob, 35)>
