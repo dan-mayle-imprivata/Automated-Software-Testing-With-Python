@@ -1,4 +1,4 @@
-# class method (used more) and static method (used less)
+# class method (used more) and static method (used less{})
 class ClassTest:
 
     @classmethod
